@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">三阶魔方</string>
+    <string name="app_name">MyCube</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="previousFace">上一面</string>
@@ -25,7 +25,7 @@
     <string name="solver">解决</string>
     <string name="finished">结束</string>
     <string name="title_welcome">欢迎来到</string>
-    <string name="title_appname">三阶魔方</string>
+    <string name="title_appname">MyCube</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
 </resources>
