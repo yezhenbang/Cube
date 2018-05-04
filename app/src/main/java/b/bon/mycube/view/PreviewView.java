@@ -24,9 +24,6 @@ import org.kociemba.twophase.Tools;
 import java.io.IOException;
 import java.util.List;
 
-/**
- * Created by ZhengQinyu on 2016/4/24.
- */
 public class PreviewView extends ViewGroup implements SurfaceHolder.Callback, Camera.PreviewCallback {
 
     private final String TAG = "zqy:PreviewView";

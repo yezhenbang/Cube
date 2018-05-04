@@ -4,9 +4,6 @@ import android.os.AsyncTask;
 import android.util.Log;
 import b.bon.mycube.model.ResultListener;
 
-/**
- * Created by ZhengQinyu on 2016/5/8.
- */
 public class SolverTask extends AsyncTask<Void, Void, String> {
 
     private final String TAG = "zqy:SolverTask";

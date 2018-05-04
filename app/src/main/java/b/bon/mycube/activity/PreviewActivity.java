@@ -17,9 +17,6 @@ import b.bon.mycube.view.DrawImageView;
 import b.bon.mycube.view.PreviewView;
 import b.bon.mycube.view.ResultView;
 
-/**
- * Created by ZhengQinyu on 2016/4/21.
- */
 public class PreviewActivity extends Activity {
 
     private final String TAG = "zqy:PreviewActivity";

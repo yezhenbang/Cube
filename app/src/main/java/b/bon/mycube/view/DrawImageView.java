@@ -11,12 +11,9 @@ import android.widget.ImageView;
 import b.bon.mycube.R;
 import b.bon.mycube.util.ViewUtil;
 
-/**
- * Created by ZhengQinyu on 2016/4/22.
- */
 public class DrawImageView extends ImageView {
 
-    private final static String TAG = "zqy:DrawImageView";
+    private final static String TAG = "DrawImageView";
 
     private Paint paint;
 

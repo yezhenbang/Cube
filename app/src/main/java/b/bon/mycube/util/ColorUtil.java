@@ -3,9 +3,6 @@ package b.bon.mycube.util;
 import android.graphics.Color;
 import b.bon.mycube.model.CubeColor;
 
-/**
- * Created by ZhengQinyu on 2016/4/21.
- */
 public final class ColorUtil {
 
     public static int[] getRGB(int pixel) {

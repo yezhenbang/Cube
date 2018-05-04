@@ -11,17 +11,10 @@ import android.widget.LinearLayout;
 
 import b.bon.mycube.R;
 
-
-/**
- * Created by Administrator on 2016/5/6.
- */
 public class ViewPageActivity extends Activity implements ViewPager.OnPageChangeListener {
 
     private ViewPager viewPager;
 
-    /**
-     * 装点点的ImageView数组
-     */
     private ImageView[] tips;
 
     private ImageView imageView;

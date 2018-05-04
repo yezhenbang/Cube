@@ -6,7 +6,7 @@
                 android:paddingLeft="@dimen/activity_horizontal_margin"
                 android:paddingRight="@dimen/activity_horizontal_margin"
                 android:background="#FFFFFFFF"
-                tools:context=".MainActivity">
+                tools:context="b.bon.mycube.activity.MainActivity">
 
     <ImageView
             android:id="@+id/imageView1"

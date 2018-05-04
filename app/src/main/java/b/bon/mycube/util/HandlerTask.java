@@ -9,9 +9,6 @@ import b.bon.mycube.model.ResultListener;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
-/**
- * Created by ZhengQinyu on 2016/4/21.
- */
 public class HandlerTask extends AsyncTask<Void, Void, ColorFace> {
 
     private final String TAG = "zqy:HandlerTask";

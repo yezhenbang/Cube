@@ -1,7 +1,6 @@
 package b.bon.mycube.model;
 
 /**
- * Created by ZhengQinyu on 2016/5/7.
  * 执行的旋转动作类
  */
 public class Rotation {

@@ -15,9 +15,7 @@ import b.bon.mycube.R;
 
 /*@SuppressLint("SdCardPath")*/
 public class MainActivity extends Activity {
-    /**
-     * Called when the activity is first cr eated.
-     */
+
     private Button button;
     private ImageView view;
     //ImageView homeImage;

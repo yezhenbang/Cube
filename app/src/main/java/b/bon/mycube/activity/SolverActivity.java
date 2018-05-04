@@ -13,13 +13,8 @@ import b.bon.mycube.model.ResultListener;
 import b.bon.mycube.model.RubikCube;
 import b.bon.mycube.util.SolverTask;
 
-/**
- * Created by ZhengQinyu on 2016/5/5.
- */
-
-
 public class SolverActivity extends Activity {
-    private final String TAG = "zqy:SolverActivity";
+    private final String TAG = "zSolverActivity";
     RubikCube cubeModel;
     private GLSurfaceView glsurfaceView;
     private float oldX = 0, oldY = 0;

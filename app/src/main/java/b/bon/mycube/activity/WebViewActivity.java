@@ -1,9 +1,5 @@
 package b.bon.mycube.activity;
 
-/**
- * Created by Administrator on 2016/5/7.
- */
-
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Intent;
@@ -16,11 +12,6 @@ import android.webkit.WebViewClient;
 import android.widget.Button;
 
 import b.bon.mycube.R;
-
-
-/**
- * Created by Administrator on 2016/5/7.
- */
 
 public class WebViewActivity extends Activity {
 
@@ -49,7 +40,6 @@ public class WebViewActivity extends Activity {
         });
 
     }
-
 
     @SuppressLint("SetJavaScriptEnabled")
     private void webViewSettings(WebView webView2) {

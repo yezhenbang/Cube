@@ -10,7 +10,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 /**
- * Created by ZhengQinyu on 2016/4/28.
+ *
  * 将预览的照片保存到本地的 imgPath 路径，便于测试
  */
 public final class FileUtil {

@@ -11,11 +11,6 @@ import javax.microedition.khronos.opengles.GL10;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author : neaGaze (Nigesh)
- *         3D立体魔方
- */
-
 public class RubikCube extends GLSurfaceView implements GLSurfaceView.Renderer {
 
     private final String TAG = "zqy:RubikCube";

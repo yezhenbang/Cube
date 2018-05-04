@@ -5,9 +5,6 @@ import android.hardware.Camera.Size;
 
 import java.util.List;
 
-/**
- * Created by ZhengQinyu on 2016/4/24.
- */
 public final class ViewUtil {
 
     /**

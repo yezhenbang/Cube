@@ -2,10 +2,6 @@ package b.bon.mycube.model;
 
 import java.io.Serializable;
 
-/**
- * Created by ZhengQinyu on 2016/4/30.
- */
-
 public class ColorFace implements Serializable {
 
     private CubeColor[] colors;

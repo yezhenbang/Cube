@@ -11,9 +11,6 @@ import android.widget.ImageView;
 import b.bon.mycube.model.ColorFace;
 import b.bon.mycube.model.CubeColor;
 
-/**
- * Created by ZhengQinyu on 2016/5/2.
- */
 public class ResultView extends ImageView {
 
     private final String TAG = "zqy:ResultView";

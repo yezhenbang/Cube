@@ -7,7 +7,7 @@ import java.util.Date;
 import java.util.Locale;
 
 /**
- * Created by ZhengQinyu on 2016/4/28.
+ *
  * 字符串工具
  */
 public final class StringUtil {

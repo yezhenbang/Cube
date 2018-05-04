@@ -5,9 +5,6 @@ import android.util.Log;
 import java.io.*;
 import java.net.Socket;
 
-/**
- * Created by ZhengQinyu on 2016/5/12.
- */
 public class CubeClient {
 
     private final static String IP = "192.168.0.102";

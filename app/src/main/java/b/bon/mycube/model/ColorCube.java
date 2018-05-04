@@ -4,9 +4,6 @@ import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by ZhengQinyu on 2016/4/30.
- */
 public class ColorCube implements Serializable {
 
     /**

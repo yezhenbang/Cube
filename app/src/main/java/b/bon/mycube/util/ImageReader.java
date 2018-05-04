@@ -6,7 +6,7 @@ import b.bon.mycube.model.CubeColor;
 import b.bon.mycube.model.ColorFace;
 
 /**
- * Created by ZhengQinyu on 2016/4/15.
+ *
  * 图片读取工具
  */
 public final class ImageReader {
